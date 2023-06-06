@@ -4,8 +4,7 @@ graph neural networks; heterogeneous information networks; network representatio
 
 # Datasets
 
-Three processed datasets are published, including ACM, DBLP and IMDB. For downloading them, please [click](https://github.com/
-seongjunyun/Graph_Transformer_Networks).
+Three processed datasets are published, including ACM, DBLP and IMDB. For downloading them, please [click](https://github.com/seongjunyun/Graph_Transformer_Networks).
 
 # Usage:
 
